@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://chyzobah@netlify.app](https://chyzobah@netlify.app)
 
-- 📝 I regularly write articles on [https://medium.com/chizobaemeghiebo](https://medium.com/chizobaemeghiebo)
+- 📝 I regularly write articles on [https://medium.com/chizobaemeghiebo](https://medium.com/@emeghiebochizoba)
 
 - 💬 Ask me about **js, react, sql**
 
