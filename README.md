@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Frontend projects especially open source projects**
 
-- 👨‍💻 All of my projects are available at [https://chyzobah@netlify.app](https://chyzobah@netlify.app)
+- 👨‍💻 All of my projects are available at [My Portfoilo](https://chyzobah@netlify.app)
 
-- 📝 I regularly write articles on [https://medium.com/chizobaemeghiebo](https://medium.com/@emeghiebochizoba)
+- 📝 I regularly write articles on [Thigs I Write](https://medium.com/@emeghiebochizoba)
 
 - 💬 Ask me about **js, react, sql**
 
