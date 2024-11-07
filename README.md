@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chizoba Emeghiebo</h1>
 <h3 align="center">Frontend developer</h3>
 
-- 🔭 I’m currently working on **A fullstack web app**
+- 🔭 I’m currently working on **honing my frontend skills**
 
-- 🌱 I’m currently learning **Node.js, MongoDb**
+- 🌱 I’m currently building with **Node.js, React, TailwindCSS**
 
 - 👯 I’m looking to collaborate on **Frontend projects especially open source projects**
 
